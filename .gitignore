@@ -1,3 +1,12 @@
+# filetypes
+*.ppt
+*.pptx
+
+# local directories
+raw_data/
+processed_data/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
