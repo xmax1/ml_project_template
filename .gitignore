@@ -4,6 +4,11 @@
 
 # local directories
 data/*/
+logs/
+
+# machine utilities
+*powershell*
+*bash*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
